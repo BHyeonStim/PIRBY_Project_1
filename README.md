@@ -50,8 +50,7 @@
 
 ## 코드 스타일 가이드
 ```
- * c# 코딩 컨벤션을 따릅니다.
- * 주석을 적절히 사용하여 코드의 가독성을 높입니다.
+ * c# 코딩 컨벤션을 따릅니다.(https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style)
 ```
 
 
