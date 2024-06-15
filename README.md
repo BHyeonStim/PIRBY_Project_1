@@ -43,30 +43,6 @@
 
 <br/> <br/> <br/> <br/> <br/> <br/>
 
-## 프로젝트 설정 및 설치 방법
- ```
-   ### 1. 리포지토리 클론
-     SourceTree 또는 Git을 사용하여 프로젝트를 클론합니다:
-
-     ```bash
-     git clone https://github.com/BHyeonStim/PIRBY_Project_1.git
-     cd PIRBY_Project_1
-
-    ### 2. Unity 프로젝트 열기
-         1) Unity Hub를 열고, Add 버튼을 클릭하여 클론한 프로젝트 폴더를 추가합니다.
-         2) Unity Editor에서 프로젝트를 엽니다.
-         3) 필요한 패키지를 설치하라는 메시지가 나타나면, 모든 패키지를 설치합니다.
-
-    ### 3. 프로젝트 실행
-          1) Unity Editor에서 File > Build Settings를 클릭합니다.
-          2) Switch Platform 버튼을 클릭하여 원하는 플랫폼으로 전환합니다.
-          3) Play 버튼을 클릭하여 에디터 내에서 프로젝트를 실행합니다.
-
- ```
-
-  
-<br/> <br/> <br/> <br/> <br/> <br/>
-
 ## 프로젝트 내용
   *준비중
 
