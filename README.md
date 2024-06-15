@@ -28,6 +28,7 @@
   * C# : 스크립트 전용 언어로 사용
   * GitHub : 버전 관리 및 협업 도구로 사용
   * SourceTree : Git 레포지티 관리를 위한 GUI 클라이언트로 사용
+  * 3ds Max : 3D 모델링 작업을 위해 사용
 ```
 
 <br/> <br/> <br/> <br/> <br/> <br/>
@@ -37,6 +38,7 @@
   * Unity 설치 ( 이 프로젝트에서는 2022.3.17f1 LTS 버전을 사용합니다.)
   * Git 클라이언트 설치
   * SourceTree 설치
+  * 3ds Max 설치
 ```
 
 <br/> <br/> <br/> <br/> <br/> <br/>
