@@ -8,12 +8,13 @@ public class DataMgr : MonoBehaviour
     public UserData userData;
     public GameData gmaeData;
 
-    private string userDataPath;
+    public string userDataPath;
+    public string gameDataPath;
 
     void Awake()
     {
 
-        // µ¥ÀÌÅÍ ·Îµå
+        // ÂµÂ¥Ã€ÃŒÃ…Ã Â·ÃÂµÃ¥
         LoadUserData();
         LoadGameData();
     }
