@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameMgr : MonoBehaviour
 {
+    // ΩÃ±€≈Ê
     private static GameMgr instance = null;
 
     private void Awake()
