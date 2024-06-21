@@ -9,7 +9,6 @@ public class DataMgr : MonoBehaviour
     public GameData gmaeData;
 
     private string userDataPath;
-    private string gameDataPath;
 
     void Awake()
     {
