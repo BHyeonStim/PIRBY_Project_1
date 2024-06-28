@@ -47,10 +47,12 @@
 ```
   * Unity hub 설치
     https://unity.com/kr/download
-<br/>
+
+
   * Unity 버전 설치 (2022.3.17f1 LTS 버전)
      https://unity.com/kr/releases/editor/whats-new/2022.3.17#installs
-<br/>
+
+
   * SourceTree 설치와 가이em
     https://www.sourcetreeapp.com/
     [SD-SourceTree_-190624-061503.pdf]
