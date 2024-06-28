@@ -43,20 +43,32 @@
 
 <br/> <br/> <br/> <br/> <br/> <br/>
 
+## 프로젝트 설치 방법
+```
+  * Unity hub 설치
+    https://unity.com/kr/download
+<br/>
+  * Unity 버전 설치 (2022.3.17f1 LTS 버전)
+     https://unity.com/kr/releases/editor/whats-new/2022.3.17#installs
+<br/>
+  * SourceTree 설치와 가이em
+    https://www.sourcetreeapp.com/
+    [SD-SourceTree_-190624-061503.pdf](https://github.com/user-attachments/files/16023187/SD-SourceTree_-190624-061503.pdf)
+```
+<br/> <br/> <br/> <br/> <br/> <br/>
+
 ## 프로젝트 내용
   *준비중
 
 <br/> <br/> <br/> <br/> <br/> <br/>
 
 ## 코드 스타일 가이드
+
 ```
  * c# 코딩 컨벤션을 따릅니다.(https://blog.unity.com/kr/engine-platform/clean-up-your-code-how-to-create-your-own-c-code-style)
 ```
 
 <br/> <br/> <br/> <br/> <br/> <br/>
 
-## 프로젝트 설치 방법
-```
 
-```
 
