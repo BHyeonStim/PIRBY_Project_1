@@ -53,7 +53,7 @@
      https://unity.com/kr/releases/editor/whats-new/2022.3.17#installs
 
 
-  * SourceTree 설치와 가이em
+  * SourceTree 설치와 가이드
     https://www.sourcetreeapp.com/
     [SD-SourceTree_-190624-061503.pdf]
 ```
