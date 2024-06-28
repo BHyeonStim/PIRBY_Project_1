@@ -53,7 +53,7 @@
 <br/>
   * SourceTree 설치와 가이em
     https://www.sourcetreeapp.com/
-    [SD-SourceTree_-190624-061503.pdf](https://github.com/user-attachments/files/16023187/SD-SourceTree_-190624-061503.pdf)
+    [SD-SourceTree_-190624-061503.pdf]
 ```
 <br/> <br/> <br/> <br/> <br/> <br/>
 
